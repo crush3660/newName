@@ -1,8 +1,6 @@
-
-public class hellow(){
+public class hellowWorld{
   
   public static void main(String[] args){
-    system.out.println("hellow world!!")
+     System.out.println("hellow world!!");
     }
    } 
-  
